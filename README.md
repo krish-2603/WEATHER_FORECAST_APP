@@ -4,4 +4,3 @@ Hey, I've created a weather forecast app using concepts that include css,bootstr
 
 I have attached html,css,js files that are used to create this app.
 And I've attached how the webpage looks like.
-
