@@ -13,7 +13,6 @@ let Humidity = document.getElementById("Humidity");
 let WindSpeed = document.getElementById("WindSpeed");
 let ErrorMsg = document.getElementById("ErrorMsg");
 
-
 let Day1= document.getElementById("Day1")
 let Day1Temperature = document.getElementById("Day1Temperature");
 let Day1Humidity = document.getElementById("Day1Humidity");
@@ -32,13 +31,11 @@ let Day3Temperature = document.getElementById("Day3Temperature");
 let Day3Humidity = document.getElementById("Day3Humidity");
 let Day3Wind = document.getElementById("Day3Wind");
 
-
 let Day4= document.getElementById("Day4")
 let Day4ConditionBox = document.getElementById("Day4ConditionBox");
 let Day4Temperature = document.getElementById("Day4Temperature");
 let Day4Humidity = document.getElementById("Day4Humidity");
 let Day4Wind = document.getElementById("Day4Wind");
-
 
 let Day5= document.getElementById("Day5")
 let Day5ConditionBox = document.getElementById("Day5ConditionBox");
@@ -46,20 +43,17 @@ let Day5Temperature = document.getElementById("Day5Temperature");
 let Day5Humidity = document.getElementById("Day5Humidity");
 let Day5Wind = document.getElementById("Day5Wind");
 
-
 let Day6= document.getElementById("Day6")
 let Day6ConditionBox = document.getElementById("Day6ConditionBox");
 let Day6Temperature = document.getElementById("Day6Temperature");
 let Day6Humidity = document.getElementById("Day6Humidity");
 let Day6Wind = document.getElementById("Day6Wind");
 
-
 let Day7= document.getElementById("Day7")
 let Day7ConditionBox = document.getElementById("Day7ConditionBox");
 let Day7Temperature = document.getElementById("Day7Temperature");
 let Day7Humidity = document.getElementById("Day7Humidity");
 let Day7Wind = document.getElementById("Day7Wind");
-
 
 
 let ConditionIconBox = document.getElementById("ConditionIcon");
